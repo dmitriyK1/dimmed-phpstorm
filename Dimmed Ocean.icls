@@ -616,7 +616,10 @@
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="bc606b" />
+        <option name="EFFECT_TYPE" value="6" />
+      </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
@@ -904,7 +907,11 @@
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="bc606b" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
